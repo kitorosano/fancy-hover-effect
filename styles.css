@@ -37,7 +37,7 @@ a {
 }
 
 .fancy:hover > .letter:nth-child(1) {
-  transform: translate(-80%, 60%) rotate(8deg);
+  transform: translate(-100%, 60%) rotate(8deg);
 }
 
 .fancy:hover > .letter:nth-child(2) {
@@ -69,21 +69,13 @@ a {
 }
 
 .fancy:hover > .letter:nth-child(9) {
-  transform: translate(0%, 20%) rotate(8deg);
+  transform: translate(30%, 35%) rotate(8deg);
 }
 
 .fancy:hover > .letter:nth-child(10) {
-  transform: translate(0%, 15%) rotate(-6deg);
+  transform: translate(50%, -10%) rotate(-3deg);
 }
 
 .fancy:hover > .letter:nth-child(11) {
-  transform: translate(20%, -20%) rotate(3deg);
-}
-
-.fancy:hover > .letter:nth-child(12) {
-  transform: translate(60%, -10%) rotate(-3deg);
-}
-
-.fancy:hover > .letter:nth-child(13) {
-  transform: translate(120%, -30%) rotate(-10deg);
+  transform: translate(40%, -30%) rotate(-10deg);
 }
